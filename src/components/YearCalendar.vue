@@ -38,7 +38,7 @@
 
 <script>
 import dayjs from 'dayjs'
-import MonthCalendar from './MonthCalendar'
+import MonthCalendar from './MonthCalendar.vue'
 export default {
   name: 'year-calendar',
   props: {
